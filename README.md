@@ -1,6 +1,6 @@
 # Intelligent rockets
 
-Simulación de un algoritmo evolutivo hecha con JavaScript y p5.js. Una población de 50 cohetes aprende, generación tras generación, a llegar a un objetivo esquivando obstáculos.
+Simulación de un algoritmo evolutivo hecho con JavaScript y p5.js. Una población de 50 cohetes aprende, generación tras generación, a llegar a un objetivo esquivando obstáculos.
 
 ## Cómo funciona
 
